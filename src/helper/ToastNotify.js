@@ -32,4 +32,4 @@ export const toastErrorNotify = (msg) => {
     draggable: true,
     progress: undefined,
   });
-};
+}
